@@ -99,12 +99,33 @@ body{
     bottom: 80px;
     left: 50px;
 }
-
-#title-component{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.movies{
+    position: relative;
+    bottom: 135px;
     
 }
+#tc1{
+    margin-left: 40px;
+}
+#tc2{
+    margin-left: 220px;
+    position: relative;
+    bottom: 140px;
+}
+#tc3{
+    margin-left: 470px;
+    position: relative;
+    bottom: 270px;
+}
+#tc4{
+    margin-left: 710px;
+    position: relative;
+    bottom: 405px;
 
+}
+#tc5{
+    margin-left: 950px;
+    position: relative;
+    bottom: 540px;
 
+}
