@@ -9,6 +9,9 @@
 body{
     background-color: black;
 }
+p{
+    color: white;
+}
 #img1{
     width: 100%;
     height: 650px;
@@ -128,4 +131,116 @@ body{
     position: relative;
     bottom: 540px;
 
+}
+#heading{
+    color: white;
+    position: relative;
+    bottom: 650px;
+    left: 45px;
+}
+
+.top10{
+
+    display: flex;
+    position: relative;
+    bottom: 630px;
+    right: 20px;
+}
+#movie{
+    padding: 10px;
+    height: 200px;
+    display: flex;
+}
+#trend{
+    position: relative;
+    bottom: 600px;
+    left: 45px;
+}
+.trending{
+    width: 1400px;
+    display: flex;
+    position: relative;
+    bottom: 570px;
+    left: 45px;
+}
+#tc00{
+    width: 500px;
+}
+#tc01{
+    width: 500px;
+    position: relative;
+    right: 70px;
+}
+#tc02{
+    width: 500px;
+    position: relative;
+    right: 110px;
+}
+#tc03{
+    width: 500px;
+    position: relative;
+    right: 150px;
+}
+#tc04{
+    width: 500px; 
+    position: relative;
+    right: 180px;
+}
+#science{
+    position: relative;
+    bottom: 500px;
+    left: 45px;
+}
+.scific{
+    width: 1400px;
+    display: flex;
+    position: relative;
+    bottom: 470px;
+    left: 45px;
+}
+#tc0{
+    width: 500px;
+}
+#tc011{
+    width: 500px;
+    position: relative;
+    right: 70px;
+}
+#tc012{
+    width: 500px;
+    position: relative;
+    right: 110px;
+}
+#tc013{
+    width: 500px;
+    position: relative;
+    right: 150px;
+}
+#tc014{
+    width: 500px; 
+    position: relative;
+    right: 180px;
+}
+footer{
+    padding: 60px;
+    margin-left: 35%;
+    width: 600px;
+
+}
+
+.icons{
+    background-color: white;
+    margin: 10px;
+    
+    
+}
+
+#randomNames{
+    color: gray;
+}
+
+#box{
+    border: solid gray;
+    border-radius: 1%;
+    padding: 5px;
 }
