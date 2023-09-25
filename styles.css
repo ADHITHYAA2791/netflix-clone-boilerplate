@@ -244,3 +244,110 @@ footer{
     border-radius: 1%;
     padding: 5px;
 }
+#ten{
+    color: white;
+    visibility: hidden;
+}
+@media (max-width:425px){
+    #img1{
+        width: 450px;
+    }
+    #nav1{
+        margin-left: 200px;
+        width: fit-content;
+        display: flex;
+        flex-direction: column;
+    }
+    #maid{
+        font-size: 50px;
+        margin-bottom: 100px;
+    }
+    #div1 img{
+        visibility: hidden;
+    }
+    #show{
+        visibility: hidden;
+    }
+    #div4{
+        margin-bottom: 100px;
+    }
+    #tc3{
+        visibility: hidden;
+    }
+    #tc4{
+        visibility: hidden;
+    }
+    #tc5{
+        visibility: hidden;
+    }
+    .movies{
+        position: relative;
+        bottom: 300px;
+    }
+    #tc1{
+        width: 200px;
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+        right: 30px;
+    }
+    #tc2{
+        width: 300px;
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+        right: 30px;
+    }
+    #heading{
+        visibility: hidden;
+    }
+    #ten{
+        visibility: visible;
+        position: relative;
+        bottom: 2200px;
+    }
+    .top10{
+        width: 300px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #tc00{
+        width: 390px;
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+        right: 40px;
+    }
+    #tc01{
+        width: 450px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #tc02{
+        visibility: hidden;
+    }
+    #tc03{
+        visibility: hidden;
+    }
+    #tc04{
+        visibility: hidden;
+    }
+    #tc0{
+        width: 390px;
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+        right: 40px;
+    }
+    #tc011{
+        width: 450px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    footer{
+        position: relative;
+        right: 150px;
+    }
+
+
+}
